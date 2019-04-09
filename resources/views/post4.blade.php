@@ -190,19 +190,6 @@
                                 <div class="col-12 col-lg-3">
                                     <div class="block">
                                         <aside class="sidebar">
-                                            <!-- widget-social -->
-                                            <div class="widget">
-                                                <div class="widget-social">
-                                                    <ul class="widget-social__list">
-                                                        <li class="widget-social__item"><a class="widget-social__link widget-social__link--facebook" href="https://themeforest.net/user/kos9/portfolio" target="_blank"><i class="widget-social__icon fab fa-facebook-f"></i></a></li>
-                                                        <li class="widget-social__item"><a class="widget-social__link widget-social__link--twitter" href="https://themeforest.net/user/kos9/portfolio" target="_blank"><i class="widget-social__icon fab fa-twitter"></i></a></li>
-                                                        <li class="widget-social__item"><a class="widget-social__link widget-social__link--youtube" href="https://themeforest.net/user/kos9/portfolio" target="_blank"><i class="widget-social__icon fab fa-youtube"></i></a></li>
-                                                        <li class="widget-social__item"><a class="widget-social__link widget-social__link--instagram" href="https://themeforest.net/user/kos9/portfolio" target="_blank"><i class="widget-social__icon fab fa-instagram"></i></a></li>
-                                                        <li class="widget-social__item"><a class="widget-social__link widget-social__link--rss" href="https://themeforest.net/user/kos9/portfolio" target="_blank"><i class="widget-social__icon fas fa-rss"></i></a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                            <!-- widget-social / end -->
                                             <!-- widget-about-blog -->
                                             <div class="widget widget--card">
                                                 <div class="widget__title">
@@ -212,21 +199,6 @@
                                                 </div>
                                             </div>
                                             <!-- widget-about-blog / end -->
-                                            <!-- widget-categories -->
-                                            <div class="widget widget--card">
-                                                <div class="widget__title">
-                                                    <h4 class="decor-header">Categories</h4></div>
-                                                <div class="widget__body">
-                                                    <div class="widget-categories" data-collapse data-collapse-opened-class="widget-categories__item--opened">
-                                                        <ul class="widget-categories__list">
-                                                            <li class="widget-categories__item" data-collapse-item><a href="#" class="widget-categories__link">Latest News</a></li>
-                                                            <li class="widget-categories__item" data-collapse-item><a href="#" class="widget-categories__link">News Posts</a></li>
-                                                            <li class="widget-categories__item" data-collapse-item><a href="#" class="widget-categories__link">Popular Posts</a></li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <!-- widget-categories / end -->
                                             <!-- widget-posts -->
                                             <div class="widget widget-posts widget--card">
                                                     <div class="widget__title">
@@ -265,31 +237,6 @@
                                                     </div>
                                                 </div>
                                                 <!-- widget-posts / end -->
-                                            <!-- widget-newsletter -->
-                                            <div class="widget widget--card">
-                                                <div class="widget__title">
-                                                    <h4 class="decor-header">Our Newsletter</h4></div>
-                                                <div class="widget__body">
-                                                    <div class="widget-newsletter">
-                                                        <p style="font-size: 15px;">Curabitur porttitor ultrices turpis ac luctus. Aliquam imperdiet eros ante, in facilisis justo semper sit amet.</p>
-                                                        <form action="#">
-                                                            <input type="email" class="form-control mb-3" placeholder="Email Address">
-                                                            <button type="submit" class="btn btn-primary w-100">Subscribe</button>
-                                                        </form>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <!-- widget-newsletter / end -->
-                                            <!-- widget-banner -->
-                                            <div class="widget">
-                                                <a href="#" class="widget-sidebar-banner">
-                                                    <picture>
-                                                        <source media="(min-width: 960px)" srcset="images/banners/sidebar-banner.jpg, images/banners/sidebar-banner@2x.jpg 2x">
-                                                        <source media="(min-width: 361px) and (max-width: 959px)" srcset="images/banners/sidebar-banner-wide.jpg, images/banners/sidebar-banner-wide@2x.jpg 2x">
-                                                        <source media="(max-width: 360px)" srcset="images/banners/sidebar-banner.jpg, images/banners/sidebar-banner@2x.jpg 2x"><img src="images/banners/sidebar-banner.jpg" alt=""></picture>
-                                                </a>
-                                            </div>
-                                            <!-- widget-banner / end -->
                                         </aside>
                                     </div>
                                 </div>
